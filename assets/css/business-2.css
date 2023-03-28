@@ -141,7 +141,7 @@ select:visited {
 	text-transform: none;
 	line-height: 1.25;
 	margin-bottom: 0;
-	color: #1a0b60;
+	color: #2a2a2a;
 }
 
 .pr3-headline h1 {
@@ -312,7 +312,7 @@ select:visited {
 }
 
 .pr3-title-area span {
-	color: #497efd;
+	color: #2a2a2a;
 	font-weight: 700;
 	font-size: 18px;
 	margin-bottom: 6px;
@@ -2018,7 +2018,7 @@ select:visited {
 	display: block;
 	padding: 15px 12px;
 	padding-right: 40px;
-	color: #1a0b60;
+	color: #2a2a2a;
 	font-weight: 700;
 	font-family: "Lexend", sans-serif;
 	position: relative;
@@ -2030,7 +2030,7 @@ select:visited {
 	top: 50%;
 	right: 12px;
 	font-weight: 700;
-	color: #1a0b60;
+	color: #2a2a2a;
 	background-color: #ffffff;
 	width: 30px;
 	height: 30px;
@@ -2060,14 +2060,19 @@ select:visited {
 }
 
 .pr3-accordion .card-active .card-header {
-	background-image: -webkit-linear-gradient(115deg, #5500f4 0%, #4880fd 100%);
-	background-image: -o-linear-gradient(115deg, #5500f4 0%, #4880fd 100%);
-	background-image: linear-gradient(-25deg, #5500f4 0%, #4880fd 100%);
+	background-image: linear-gradient(45deg, rgb(255,102,38) 15%, rgb(255,166,65) 100%);
+	background-image: linear-gradient(45deg, rgb(255,102,38) 15%, rgb(255,166,65) 100%);
+	background-image: linear-gradient(45deg, rgb(255,102,38) 15%, rgb(255,166,65) 100%);
 	border-radius: 3px;
 }
 
 .pr3-accordion .card-active .card-header a {
 	color: #ffffff;
+}
+
+
+.pr3-accordion .card-active .card-header a:hover {
+	color: #ffffff !important;
 }
 
 .pr3-accordion .card-active .card-header a::after {
@@ -2198,7 +2203,7 @@ select:visited {
 }
 
 .pr3-work-content .pr3-work-column .pr3-wk-column-top .wk-column-right span {
-	color: #1a0b60;
+	color: #2a2a2a;
 	font-weight: 700;
 	font-family: "Lexend", sans-serif;
 	text-transform: capitalize;

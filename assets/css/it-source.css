@@ -335,7 +335,7 @@ select:visited {
 }
 .it-up-footer-widget .it-up-footer-logo-widget .footer-logo-btn, .it-up-form-wrap button, .it-up-service-tab-text .it-up-ser-btn, .it-up-ft-btn a, .it-up-about-btn a {
   height: 55px;
-  width: 160px;
+  width: 185px;
   color: #fff;
   font-weight: 700;
   line-height: 55px;
@@ -345,7 +345,7 @@ select:visited {
   transition: all 200ms linear 0ms;
   background-size: 200%, 1px;
   box-shadow: 0px 18px 18px 0px rgba(22, 136, 232, 0.21);
-  background-image: linear-gradient(90deg, #1ec5fa 0%, #0d47d5 50%, #1ec5fa);
+  background-image: linear-gradient(90deg, #ffb540 0%, #FF9C00 50%, #ffb540);
 }
 .it-up-footer-widget .it-up-footer-logo-widget .footer-logo-btn:hover, .it-up-form-wrap button:hover, .it-up-service-tab-text .it-up-ser-btn:hover, .it-up-ft-btn a:hover, .it-up-about-btn a:hover {
   background-position: 120%;
