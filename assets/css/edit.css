@@ -1,0 +1,27 @@
+@media (max-width: 768px)
+{
+  .banner-shape{
+    display: none;
+  }
+  .sumi{
+    display: none;
+  }
+  .appseo-banner-content{
+    position: relative;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .edit2{
+    text-align: center;
+    padding: 50px;
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    font-size: 30px !important;
+    margin-left: 50px;
+  }
+}
